@@ -1,0 +1,13 @@
+/*images inside the thumbnails will have this style*/
+.thumbnail img{
+  width: 150px;
+  height: 150px;
+}
+
+.myfooter{
+  background-color: #000000;
+  color:#ffffff;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+}
